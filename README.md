@@ -6,6 +6,6 @@ LeetCode
 (Notes: "🔒" means you need to buy a book from Leetcode)
 
 
-| # | Title | Solution | Difficulty |
+| # | Title | Problem | Difficulty |
 |---| ----- | -------- | ---------- |
-|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp)|Easy|
