@@ -12,3 +12,4 @@ LeetCode
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](Easy/valid_parentheses.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](Easy/Merge_Two_Sorted_Lists.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](Easy/leetcode27.js)|Easy|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [JavaScript](Easy/leetcode28.js)|Easy|
