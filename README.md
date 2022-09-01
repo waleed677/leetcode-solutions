@@ -13,4 +13,5 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](Easy/Merge_Two_Sorted_Lists.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](Easy/leetcode27.js)|Easy|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [JavaScript](Easy/leetcode28.js)|Easy|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position//) | [JavaScript](Easy/leetcode35.js)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](Easy/leetcode35.js)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](Easy/leetcode58.js)|Easy|
