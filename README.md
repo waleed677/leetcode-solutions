@@ -15,3 +15,4 @@ LeetCode
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/) | [JavaScript](Easy/leetcode28.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](Easy/leetcode35.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](Easy/leetcode58.js)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](Easy/leetcode66_Plus_One.js)|Easy|
