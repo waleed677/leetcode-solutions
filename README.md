@@ -16,3 +16,4 @@ LeetCode
 |7|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](Easy/leetcode35.js)|Easy|
 |8|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](Easy/leetcode58.js)|Easy|
 |9|66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](Easy/leetcode66_Plus_One.js)|Easy|
+|10|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](Easy/leetcode67_Add_Binary.js)|Easy|
