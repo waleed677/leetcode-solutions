@@ -1,4 +1,4 @@
-let input = "MCMXCIV";
+let input = "XIX";
 let output = romanToInt(input);
 console.log(output);
 
